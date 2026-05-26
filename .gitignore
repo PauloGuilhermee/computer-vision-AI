@@ -1,0 +1,17 @@
+# Bases locais / imagens pessoais
+rostos_conhecidos/
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.mp4
+*.avi
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Configurações locais
+.env
